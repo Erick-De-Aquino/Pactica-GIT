@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to top, red, blue);
+    background-attachment: fixed;
+}
+div{
+    width:100px;background-color:#0ce71b;border:1px solid #cccccc opacity.5;
+}
